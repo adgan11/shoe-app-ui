@@ -14,6 +14,7 @@
 		7F1911DD2A94CFA200D4A6E6 /* ShoeAppFigmaTutTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F1911DC2A94CFA200D4A6E6 /* ShoeAppFigmaTutTests.swift */; };
 		7F1911E72A94CFA200D4A6E6 /* ShoeAppFigmaTutUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F1911E62A94CFA200D4A6E6 /* ShoeAppFigmaTutUITests.swift */; };
 		7F1911E92A94CFA200D4A6E6 /* ShoeAppFigmaTutUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F1911E82A94CFA200D4A6E6 /* ShoeAppFigmaTutUITestsLaunchTests.swift */; };
+		7FF7B47C2A94D4E100A4B403 /* ShoeCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FF7B47B2A94D4E100A4B403 /* ShoeCard.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		7F1911E22A94CFA200D4A6E6 /* ShoeAppFigmaTutUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ShoeAppFigmaTutUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7F1911E62A94CFA200D4A6E6 /* ShoeAppFigmaTutUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShoeAppFigmaTutUITests.swift; sourceTree = "<group>"; };
 		7F1911E82A94CFA200D4A6E6 /* ShoeAppFigmaTutUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShoeAppFigmaTutUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		7FF7B47B2A94D4E100A4B403 /* ShoeCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShoeCard.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				7F1911CD2A94CFA100D4A6E6 /* ContentView.swift */,
 				7F1911CF2A94CFA200D4A6E6 /* Assets.xcassets */,
 				7F1911D12A94CFA200D4A6E6 /* Preview Content */,
+				7FF7B47B2A94D4E100A4B403 /* ShoeCard.swift */,
 			);
 			path = ShoeAppFigmaTut;
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7FF7B47C2A94D4E100A4B403 /* ShoeCard.swift in Sources */,
 				7F1911CE2A94CFA100D4A6E6 /* ContentView.swift in Sources */,
 				7F1911CC2A94CFA100D4A6E6 /* ShoeAppFigmaTutApp.swift in Sources */,
 			);
